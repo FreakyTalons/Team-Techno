@@ -21,7 +21,7 @@ Run an instance of our unity project in native. Obtain information like starting
 
 ## Technology Stack
 * Native Android Dev 
-* https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
+* Unity
 * AR 
 
 ## Challenges
