@@ -35,4 +35,4 @@ Run an instance of our unity project in native. Obtain information like starting
 * [Sanskriti Binani](https://github.com/Sanskriti1110)
 * [Vinayak Sharma](https://github.com/svinayak780)
 
-Note: You can find the code in master branch.
+
