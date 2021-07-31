@@ -20,7 +20,7 @@ Run an instance of our unity project in native. Obtain information like starting
 
 
 ## Technology Stack
-* Native Android Dev 
+* Flutter Android Dev 
 * Unity
 * AR 
 
